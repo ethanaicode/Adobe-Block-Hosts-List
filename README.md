@@ -1,10 +1,6 @@
 # Adobe-Block-Hosts-List
 
-Adobe Block Hosts List to block Adobe activation.
-
-This Project is based on [this Adobe App is not available](https://www.reddit.com/r/AdobeZii/comments/10p0398/anyone_else_getting_sorry_this_adobe_app_is_not/)
-
-[![License](https://img.shields.io/github/license/roshanlam/Adobe-Block-Hosts-List)](https://github.com/ethanaicode/Adobe-Block-Hosts-List)
+Adobe Block Hosts List to block Adobe activation. Prevent Adobe software from connecting to its activation servers by adding these entries to your system's hosts file.
 
 ## Introduction
 
