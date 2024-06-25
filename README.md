@@ -2,6 +2,10 @@
 
 Adobe Block Hosts List to block Adobe activation.
 
+This Project is based on [this Adobe App is not available](https://www.reddit.com/r/AdobeZii/comments/10p0398/anyone_else_getting_sorry_this_adobe_app_is_not/)
+
+[![License](https://img.shields.io/github/license/roshanlam/Adobe-Block-Hosts-List)](https://github.com/ethanaicode/Adobe-Block-Hosts-List)
+
 ## Introduction
 
 This repository contains a list of host entries designed to block Adobe activation servers. By adding these entries to your system's hosts file, you can prevent Adobe software from connecting to its activation servers, which can be useful for various reasons including privacy and offline use.
@@ -268,7 +272,6 @@ Add the following entries to your hosts file:
 127.0.0.1 edgeproxy-irl1.cloud.adobe.io
 127.0.0.1 ethos.ethos02-prod-irl1.ethos.adobe.net
 127.0.0.1 geo2.adobe.com
-127.0.0.1 lcs-cops.adobe.io
 127.0.0.1 lcs-robs.adobe.io
 127.0.0.1 pv2bqhsp36w.prod.cloud.adobe.io
 127.0.0.1 services.prod.ims.adobejanus.com
@@ -278,15 +281,24 @@ Add the following entries to your hosts file:
 127.0.0.1 stls.adobe.com-cn.edgesuite.net.globalredir.akadns.net
 127.0.0.1 use-stls.adobe.com.edgesuite.net
 127.0.0.1 9ngulmtgqi.adobe.io
-
-# New Add 2024-06-25
-
 127.0.0.1 vcorzsld2a.adobe.io
 127.0.0.1 sj9n87sls.adobe.io
 127.0.0.1 fqaq3pq1o9.adobe.io
 127.0.0.1 8ncdzpmmrg.adobe.io
 127.0.0.1 jc95y2v12r.adobe.io
 127.0.0.1 7sj9n87sls.adobe.io
+127.0.0.1 r5hacgq5w6.adobe.io
+127.0.0.1 7m31guub0q.adobe.io
+127.0.0.1 vajcbj9qgq.adobe.io
+127.0.0.1 2ftem87osk.adobe.io
+127.0.0.1 ph0f2h2csf.adobe.io
+127.0.0.1 guzg78logz.adobe.io
+127.0.0.1 p7uxzbht8h.adobe.io
+127.0.0.1 3d3wqt96ht.adobe.io
+127.0.0.1 p0bjuoe16a.adobe.io
+127.0.0.1 lre1kgz2u4.adobe.io
+127.0.0.1 0mo5a70cqa.adobe.io
+127.0.0.1 p7uxzbnt8h.adobe.io
 
 # Adobe End
 
