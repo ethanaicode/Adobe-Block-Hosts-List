@@ -333,7 +333,3 @@ This project is intended for educational and informational purposes only. Use it
 ## Contributing
 
 Feel free to submit a pull request or open an issue if you have any suggestions or improvements.
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for more details.
