@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## 2024-10-16
+
+### Added
+
+- Added 4 new URLs
+
 ## 2024-06-25
 
 ### Added
