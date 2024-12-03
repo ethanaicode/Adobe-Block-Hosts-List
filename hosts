@@ -1,4 +1,4 @@
-##
+####
 
 # Adobe Start
 
@@ -112,9 +112,6 @@
 127.0.0.1 s-3.adobe.com
 127.0.0.1 tss-geotrust-crl.thawte.com
 127.0.0.1 uds.licenses.adobe.com
-127.0.0.1 dxyeyf6ecy.adobe.io
-127.0.0.1 1hzopx6nz7.adobe.io
-127.0.0.1 ic.adobe.io
 127.0.0.1 p13n.adobe.io
 127.0.0.1 wip1.adobe.com
 127.0.0.1 wip2.adobe.com
@@ -220,12 +217,6 @@
 127.0.0.1 www.adobeereg.com
 127.0.0.1 cc-api-data.adobe.io
 127.0.0.1 prod.adobegenuine.com
-127.0.0.1 assets.adobedtm.com
-127.0.0.1 4vzokhpsbs.adobe.io
-127.0.0.1 69tu0xswvq.adobe.io
-127.0.0.1 5zgzzv92gn.adobe.io
-127.0.0.1 dyzt55url8.adobe.io
-127.0.0.1 gw8gfjbs05.adobe.io
 127.0.0.1 wip.adobe.com
 127.0.0.1 199.232.114.137
 127.0.0.1 bam.nr-data.net
@@ -255,8 +246,6 @@
 127.0.0.1 edgeproxy-irl1.cloud.adobe.io
 127.0.0.1 ethos.ethos02-prod-irl1.ethos.adobe.net
 127.0.0.1 geo2.adobe.com
-127.0.0.1 lcs-cops.adobe.io
-127.0.0.1 lcs-robs.adobe.io
 127.0.0.1 pv2bqhsp36w.prod.cloud.adobe.io
 127.0.0.1 services.prod.ims.adobejanus.com
 127.0.0.1 ssl-delivery.adobe.com.edgekey.net
@@ -264,6 +253,16 @@
 127.0.0.1 stls.adobe.com-cn.edgesuite.net
 127.0.0.1 stls.adobe.com-cn.edgesuite.net.globalredir.akadns.net
 127.0.0.1 use-stls.adobe.com.edgesuite.net
+127.0.0.1 lcs-cops.adobe.io
+127.0.0.1 lcs-robs.adobe.io
+127.0.0.1 assets.adobedtm.com
+127.0.0.1 4vzokhpsbs.adobe.io
+127.0.0.1 69tu0xswvq.adobe.io
+127.0.0.1 5zgzzv92gn.adobe.io
+127.0.0.1 dyzt55url8.adobe.io
+127.0.0.1 gw8gfjbs05.adobe.io
+127.0.0.1 dxyeyf6ecy.adobe.io
+127.0.0.1 1hzopx6nz7.adobe.io
 127.0.0.1 9ngulmtgqi.adobe.io
 127.0.0.1 vcorzsld2a.adobe.io
 127.0.0.1 sj9n87sls.adobe.io
@@ -283,11 +282,27 @@
 127.0.0.1 lre1kgz2u4.adobe.io
 127.0.0.1 0mo5a70cqa.adobe.io
 127.0.0.1 p7uxzbnt8h.adobe.io
-127.0.0.1 flutt9urxr.adobestats.io
 127.0.0.1 ij0gdyrfka.adobe.io
+127.0.0.1 23ynjitwt5.adobe.io
+127.0.0.1 aoorovjtha.adobe.io
+127.0.0.1 uzantvo0as.adobe.io
+127.0.0.1 p9jaddiqux.adobe.io
+127.0.0.1 27hqwvagdh.adobe.io
+127.0.0.1 vgetwxoqno.adobe.io
+127.0.0.1 9k046300lp.adobe.io
+127.0.0.1 4u4udfpb9h.adobe.io
+127.0.0.1 0ojupfm51u.adobe.io
+127.0.0.1 a2104gz1mh.adobe.io
+127.0.0.1 xo9j8bcw4a.adobe.io
+127.0.0.1 drdqxhlcop.adobe.io
+127.0.0.1 chlydkc9bz.adobe.io
+127.0.0.1 fcbx058i0c.adobe.io
+127.0.0.1 tqcbs617dw.adobe.io
+127.0.0.1 flutt9urxr.adobestats.io
 127.0.0.1 36ai1uk1z7.adobestats.io
 127.0.0.1 5amul9liob.adobestats.io
+127.0.0.1 ecsdxf3wl3.adobestats.io
 
 # Adobe End
 
-##
+####
