@@ -8,10 +8,10 @@ This repository contains a list of host entries designed to block Adobe activati
 
 ## Hosts List
 
-Add the following entries to your hosts file:
+To update your hosts file, add the following entries:
 
-@2024-12-03 Below is a partial list of entries for your hosts file.
-**For the most up-to-date and complete list, please refer to the `hosts` file in this repository.**
+Below is a partial list of entries for your hosts file.  
+**For the latest and complete list, [click here to view and copy the `hosts` file](./blob/main/hosts)**, or open the `hosts` file in the root directory of this repository.
 
 ```bash
 ##
