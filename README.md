@@ -71,3 +71,35 @@ This project is intended for educational and informational purposes only. Use it
 ## Contributing
 
 Feel free to submit a pull request or open an issue if you have any suggestions or improvements.
+
+### How to Merge New Host Entries
+
+To contribute new host entries efficiently, please use the provided `merge.sh` script to merge and deduplicate entries before submitting a pull request.
+
+#### Steps:
+
+1. Create a new file named `hosts.new.temp` and add **only the new host entries** you wish to contribute.
+
+2. Run the following command in your terminal:
+
+   ```bash
+   ./merge.sh
+   ```
+
+3. This script will:
+
+   - Copy the current `hosts` file to a new file `hosts.new`
+   - Compare your new entries (`hosts.new.temp`) against the existing `hosts` file
+   - Append only the **non-duplicate** lines into `hosts.new`
+
+4. After running the script, review the `hosts.new` file to ensure correctness.
+
+5. If everything looks good, replace the `hosts` file with the merged `hosts.new`:
+
+   ```bash
+   mv hosts.new hosts
+   ```
+
+6. Commit your changes and submit a pull request.
+
+> 💡 This script helps maintain a clean and deduplicated hosts list while speeding up the merge process.

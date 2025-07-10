@@ -2,6 +2,10 @@
 
 All notable changes to this project will be documented in this file.
 
+## 2025-07-04
+
+- Added 16 new URLs
+
 ## 2025-01-03
 
 - Added more URLs
