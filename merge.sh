@@ -1,7 +1,7 @@
 #!/bin/bash
 # merge.sh - Merge new host entries from hosts.new.temp into hosts.new (removing duplicates)
 
-TEMP_HOSTS="hosts.new.temp"
+TEMP_HOSTS="AdobeHosts_Offline.txt"
 HOSTS="hosts"
 NEW_HOSTS="hosts.new"
 
